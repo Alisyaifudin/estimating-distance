@@ -1,8 +1,14 @@
 Estimating disctance by using parallax from Gaia Catalogue.
-This repo is following Bailer-Jones (2015) recipe to calculate distances.
+This repo follows Bailer-Jones (2015) recipe to calculate distances.
+
+### Requirements
+- Astropy
+- Numpy
+- Scipy
+- Matplotlib
 
 ### License
 [BSD 3-Clause License](./LICENSE)
 
-### References
+### Reference
 - Bailer-Jones, C. A. (2015). Estimating distances from parallaxes. Publications of the Astronomical Society of the Pacific, 127(956), 994.
