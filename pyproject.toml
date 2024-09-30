@@ -1,0 +1,13 @@
+[project]
+name = "estimating-distance"
+version = "0.1.0"
+description = "Calculate distance from its parallax"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "astroquery>=0.4.7",
+    "jupyterlab>=4.2.5",
+    "matplotlib>=3.9.2",
+    "numpy==1.26",
+    "scipy>=1.13.1",
+]
