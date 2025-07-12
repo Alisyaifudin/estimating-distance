@@ -1,4 +1,4 @@
-# Wanna ReadMe?
+# About
 Estimating distance by using parallax from Gaia Catalogue.
 This repo follows Bailer-Jones (2015) recipe to calculate distances.
 
@@ -7,6 +7,16 @@ This repo follows Bailer-Jones (2015) recipe to calculate distances.
 - Numpy
 - Scipy
 - Matplotlib
+
+
+### How
+This repo used `uv` as package manager. Install it first. Then sync to install dependencies.
+
+```bash
+uv sync
+```
+
+If you used other package manager, you know how 😊
 
 ### License
 [BSD 3-Clause License](./LICENSE)
